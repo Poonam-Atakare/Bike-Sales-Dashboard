@@ -16,6 +16,10 @@ This project aims to analyze bike sales data to provide insights into customer b
 - Which regions perform the best in terms of sales?
 - What marketing strategies can be derived from the analysis?
 
+
+## Dashboard Screen
+![Screenshot 2025-04-04 190005](https://github.com/user-attachments/assets/dd48b6ea-78ac-44f9-a109-dae8021ac58e)
+
 ## Process
 1. Imported and cleaned the data using Excel Power Query to ensure accuracy and consistency.
 2. Created pivot tables and charts for advanced analysis.
